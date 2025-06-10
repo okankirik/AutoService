@@ -1,5 +1,5 @@
 ### 🚗 Vehicle Sales and Service Web Application with ASP.NET Core MVC
-# A first-level heading
+
 ---
 
 <h6> 🧠 What Will You Learn? </h6>

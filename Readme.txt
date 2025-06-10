@@ -2,7 +2,7 @@
 
 ---
 
-<h6> 🧠 What Will You Learn? </h6>
+### 🧠 What Will You Learn?
 
 ✅ Full-stack development using ASP.NET Core MVC  
 ✅ Building applications with **Layered Architecture**:  
@@ -16,7 +16,7 @@
 
 ---
 
-<h6> 🛠️ Technologies Used </h6>
+### 🛠️ Technologies Used 
 
 - C#  
 - ASP.NET Core MVC  
@@ -29,7 +29,7 @@
 - Repository Pattern  
 
 ---
-<h6> 🚀 Getting Started </h6>
+### 🚀 Getting Started 
 
 1) Clone the repository:
 git clone https://github.com/okankirik/AutoService.git

@@ -1,8 +1,8 @@
-# 🚗 Vehicle Sales and Service Web Application with ASP.NET Core MVC
+### 🚗 Vehicle Sales and Service Web Application with ASP.NET Core MVC
 
 ---
 
-## 🧠 What Will You Learn?
+<h6> 🧠 What Will You Learn? </h6>
 
 ✅ Full-stack development using ASP.NET Core MVC  
 ✅ Building applications with **Layered Architecture**:  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Technologies Used
+<h6> 🛠️ Technologies Used </h6>
 
 - C#  
 - ASP.NET Core MVC  
@@ -29,7 +29,7 @@
 - Repository Pattern  
 
 ---
-## 🚀 Getting Started
+<h6> 🚀 Getting Started </h6>
 
 1) Clone the repository:
 git clone https://github.com/okankirik/AutoService.git
